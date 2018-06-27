@@ -1,3 +1,3 @@
 # java-demo
 
-a trigger
+ trigger
