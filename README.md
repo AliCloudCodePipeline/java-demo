@@ -1,4 +1,3 @@
 # java-demo
 
- s
 trigger
