@@ -1,3 +1,2 @@
 # java-demo
-dd
-trigger
+a demo trigger
